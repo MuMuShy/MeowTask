@@ -1,4 +1,4 @@
-# MeowTask (喵一下) - A LINE-based Task Matching Service
+# MeowTask (任務喵) - A LINE-based Task Matching Service
 
 MeowTask is a lightweight mission matching service built on Django 4.2 with LINE integration. Users can post small daily tasks, accept tasks from others, and earn experience points to level up.
 
